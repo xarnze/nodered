@@ -3,5 +3,4 @@ Home
 
 ### About
 
-This is your project's README.md file. It helps users understand what your
-project does, how to use it and anything else they may need to know.
+Stores my node red config / automations, note projects must be disabled in node-red to work with home-assistant / hassio
